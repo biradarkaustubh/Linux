@@ -1,0 +1,24 @@
+1) to make a repo as a git repo
+2) to check the status of working dir/staging area. to see what changes made
+3) to add file to git repo
+4) to confirm the changes
+5) to check log
+6) to print log
+7) to check remote repo/currnt repo is remote or not
+8) to pull the code
+9) to push the code
+10) to check git version
+11) to setup git configuration
+12) to list git configs
+13) to clone git repo
+14) to check status of the code
+15) to add new remote repo locally
+16) to check git branch
+17) to rename git branch
+18) to navigate from current branch to another branch
+19) to create a new git branch
+20) to delete a git branch
+21) to merge 2 branches
+22) to undo the changes - staged changes
+23) to undo the changes - commited changes
+24) to undo the changes - commited changes for many commits
